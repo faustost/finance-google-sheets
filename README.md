@@ -9,9 +9,9 @@ Coursera Project: Compare Stock Returns with Google Sheets
 https://www.coursera.org/projects/compare-stock-returns-google-sheets
 
 Coursera Project: Google Finance for Google Sheets
-Stock prices and candlestick chart
-Extracting financial information
-Working with financial information
-Mutual funds
-Forex and stock sparklines
+- Stock prices and candlestick chart
+- Extracting financial information
+- Working with financial information
+- Mutual funds
+- Forex and stock sparklines
 https://www.coursera.org/projects/google-finance-functions-google-sheets
