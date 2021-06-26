@@ -17,3 +17,5 @@ Google Finance for Google Sheets
 - Forex and stock sparklines
 - Project: https://www.coursera.org/projects/google-finance-functions-google-sheets
 - Result: https://docs.google.com/spreadsheets/d/e/2PACX-1vSPg7FjGiC3ikmUB8AFq-NJydiOtT2DqFNI37tND1bgAN3bzoU_VWdwiFKslikBVzO7ef7EnoSaZmgC/pubhtml
+
+Credits: Bekhruzbek Ochilov
