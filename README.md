@@ -1,4 +1,4 @@
-# finance_google_sheets
+# Finance with Google Sheets
 In this repository I'm keeping some spreadsheets I've used for practicing financial data analysis as part of the following Coursera Projects:
 
 Compare Stock Returns with Google Sheets
@@ -17,5 +17,15 @@ Google Finance for Google Sheets
 - Forex and stock sparklines
 - Project: https://www.coursera.org/projects/google-finance-functions-google-sheets
 - Result: https://docs.google.com/spreadsheets/d/e/2PACX-1vSPg7FjGiC3ikmUB8AFq-NJydiOtT2DqFNI37tND1bgAN3bzoU_VWdwiFKslikBVzO7ef7EnoSaZmgC/pubhtml
+
+Investment Risk Management
+- Introduction to Risk
+- Monthly returns and Standard Deviation
+- Calculating Beta
+- Calculating Treynor Ratio
+- Calculating Value at Risk
+- Graphing and conclusion
+- Project: https://www.coursera.org/projects/investment-risk-management
+- Result: https://docs.google.com/spreadsheets/d/e/2PACX-1vR-ydHzGiHUH9blefSNe2usIWJegwjI8RS6V9Pj4ZhRqxTavPsqEkxuqEBjWD8IkN0L3Ankx59kF7GO/pubhtml
 
 Credits: Bekhruzbek Ochilov
