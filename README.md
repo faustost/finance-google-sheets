@@ -31,4 +31,15 @@ Investment Risk Management
 - Result: https://docs.google.com/spreadsheets/d/e/2PACX-1vR-ydHzGiHUH9blefSNe2usIWJegwjI8RS6V9Pj4ZhRqxTavPsqEkxuqEBjWD8IkN0L3Ankx59kF7GO/pubhtml
 - Proof of completion: http://coursera.org/verify/EB35ET8SWT89
 
+Seeking Investment Alpha
+- Calculating Portfolio Returns
+- Annualized Returns and Standard Deviation
+- Sharpe Ratio
+- Variance and Covariance
+- Individual and Portfolio Beta
+- Investment Alpha
+- Project: https://www.coursera.org/projects/seeking-investment-alpha
+- Result: https://docs.google.com/spreadsheets/d/e/2PACX-1vSOmiedjNUx64TspAOxUslHBQqLuldc3KV8lFkQBHmx1H5IjFB4Ivkw8IqX66LlX2hh3RQjj1imKlMi/pubhtml 
+- Proof of completion: http://coursera.org/verify/SKMTNXCYYKLV
+
 Credits: Bekhruzbek Ochilov
