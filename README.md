@@ -42,4 +42,13 @@ Seeking Investment Alpha
 - Result: https://docs.google.com/spreadsheets/d/e/2PACX-1vSOmiedjNUx64TspAOxUslHBQqLuldc3KV8lFkQBHmx1H5IjFB4Ivkw8IqX66LlX2hh3RQjj1imKlMi/pubhtml 
 - Proof of completion: http://coursera.org/verify/SKMTNXCYYKLV
 
+Portfolio Optimization using Markowitz Model
+- Calculate covariance and correlation of two assets
+- Calculate variance and Sharpe ratio for two-asset portfolio
+- Use Markowitz model to optimize for the highest Sharpe ratio in two-asset portfolio
+- Understand what the efficient frontier is and how it is applied in portfolio management
+- Project: https://www.coursera.org/projects/portfolio-optimization-markowitz-model
+- Result: https://docs.google.com/spreadsheets/d/e/2PACX-1vSSz9tuuZXUOrO7uaXLYWXA2VCMI2Ct_YZp9of2Y2lRNEN5EBudLGevbvzMoPmeoVFTJ0cP6eoVWnOc/pubhtml
+- Proof of completion: http://coursera.org/verify/9LX6YMGF6UEJ
+
 Credits: Bekhruzbek Ochilov
